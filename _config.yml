@@ -34,3 +34,7 @@ defaults:
 
       include:
   - _pages
+
+collections:
+  categories:
+    output: true
