@@ -1,11 +1,11 @@
 main:
   - title: "Home"
-    url: /https://qtanarose.github.io
+    url: /philosofein/
   - title: "Philosophy"
-    url: /categories/#philosophy
+    url: /philosofein/categories/#philosophy
   - title: "Economics"
-    url: /categories/#economics
+    url: /philosofein/categories/#economics
   - title: "Math"
-    url: /categories/#math
+    url: /philosofein/categories/#math
   - title: "About"
-    url: /about/
+    url: /philosofein/about/
