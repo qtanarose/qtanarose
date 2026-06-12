@@ -2,8 +2,8 @@ title: "First Principles"
 subtitle: "A knowledge base built from the ground up"
 name: "Quinn Cohen"
 description: "Exploring epistemology, behavioral economics, and foundational math."
-url: "https://qtanarose.github.io/phylosofein"
-
+url: "https://qtanarose.github.io"
+baseurl: "/philosofein"
 author:
   name: "Quinn Cohen"
   bio: "Curious about the why behind everything."
