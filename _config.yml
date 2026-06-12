@@ -17,6 +17,9 @@ paginate_path: /page:num/
 
 minimal_mistakes_skin: "aqua"
 
+include:
+  - _pages
+
 author:
   name: "Quinn Cohen"
   bio: "Curious about the why behind everything."
