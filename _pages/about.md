@@ -1,9 +1,8 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: /philosofein/about/
 ---
-
 I'm building this as a public knowledge base using first principles
 thinking — breaking ideas down to their foundations rather than
 just accepting received wisdom.
