@@ -21,7 +21,7 @@ author:
   name: "Quinn Cohen"
   bio: "Curious about the why behind everything."
   location: "CA"
-  avatar: "/philosofein/assets/images/bio-donut.jpg"
+  avatar: "https://qtanarose.github.io/philosofein/assets/images/bio-donut.jpg"
 
 defaults:
   - scope:
