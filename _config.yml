@@ -15,7 +15,7 @@ plugins:
 paginate: 5
 paginate_path: /page:num/
 
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "sunrise"
 
 include:
   - _pages
