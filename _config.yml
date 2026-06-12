@@ -4,10 +4,30 @@ name: "Quinn Cohen"
 description: "Exploring epistemology, behavioral economics, and foundational math."
 url: "https://qtanarose.github.io"
 baseurl: "/philosofein"
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: /page:num/
+
+minimal_mistakes_skin: "aqua"
+
 author:
   name: "Quinn Cohen"
   bio: "Curious about the why behind everything."
   location: "CA"
-  avatar: "/assets/images/bio-donut.jpg"
+  avatar: "/philosofein/assets/images/bio-donut.jpg"
 
-minimal_mistakes_skin: "aqua"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
